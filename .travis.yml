@@ -1,5 +1,4 @@
-language: generic
+language: python
 
 script:
-  - ls
-  - exit 0
+  - python python.py
